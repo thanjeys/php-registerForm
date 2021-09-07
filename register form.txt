@@ -1,0 +1,12 @@
+Registration Form in PHP 
+
+Input Fields 
+
+Name  :  text
+Email  : email 
+Password : password 
+Mobile : number 
+City : text
+Country : dropdown 
+
+
